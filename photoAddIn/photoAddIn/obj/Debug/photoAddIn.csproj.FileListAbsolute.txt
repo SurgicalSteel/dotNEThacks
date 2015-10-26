@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.MyUserControl.resources
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\photoAddIn.dll
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\photoAddIn.pdb
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\photoAddIn.dll.manifest
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\photoAddIn.vsto
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.dll
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.pdb
+c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.Ribbonku.resources
