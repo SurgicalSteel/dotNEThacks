@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\RavenDBTest.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\RavenDBTest.exe
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\RavenDBTest.pdb
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Abstractions.dll
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Database.dll
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Abstractions.pdb
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Abstractions.xml
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Client.Lightweight.pdb
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\obj\Debug\RavenDBTest.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\obj\Debug\RavenDBTest.exe
+C:\Users\user\documents\visual studio 2013\Projects\RavenDBTest\RavenDBTest\obj\Debug\RavenDBTest.pdb
