@@ -1,0 +1,29 @@
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Twitter Streamer Console.exe.config
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Twitter Streamer Console.exe
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Twitter Streamer Console.pdb
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Autofac.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Controllers.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Core.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Credentials.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Factories.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Logic.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Security.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.Streams.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Tweetinvi.WebLogic.dll
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Autofac.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\Newtonsoft.Json.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\obj\Debug\Twitter Streamer Console.csprojResolveAssemblyReference.cache
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\obj\Debug\Twitter Streamer Console.exe
+c:\users\dmc-9\documents\visual studio 2015\Projects\Twitter Streamer Console\Twitter Streamer Console\obj\Debug\Twitter Streamer Console.pdb
