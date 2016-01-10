@@ -22,10 +22,10 @@ namespace Twitter_Streamer_Console
 {
     class Program
     {
-        static string cust = "7ChY2dsEYRhG4MSyxCyshj5jF";
-        static string custsec = "E0op8vAic5KW0ANpw4UVlFFNTscQCu4orGz7REy1eleANCEOGe";
-        static string acto = "206679796-FXRfQXGRFFTQZRaIahYGHNGQl2KSsBw4yyN3vmK6";
-        static string actosec = "VwD3aBI7CACvqZVaNeD8j0KgF9h1IKLYSTDeJu7FJjKSC";
+        static string cust = "YOUR-CONSUMER-KEY";
+        static string custsec = "YOUR-CONSUMER-SECRET";
+        static string acto = "YOUR-ACCESS-TOKEN";
+        static string actosec = "YOUR-TOKEN-SECRET";
         static void Main(string[] args)
         {
             Auth.SetUserCredentials(cust, custsec, acto, actosec);
