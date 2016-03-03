@@ -11,3 +11,16 @@ c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\bin\De
 c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.dll
 c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.pdb
 c:\users\user\documents\visual studio 2013\Projects\photoAddIn\photoAddIn\obj\Debug\photoAddIn.Ribbonku.resources
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\photoAddIn.dll
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\photoAddIn.pdb
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\photoAddIn.dll.manifest
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\photoAddIn.vsto
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.csprojResolveAssemblyReference.cache
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.MyUserControl.resources
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.Properties.Resources.resources
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.Ribbonku.resources
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.csproj.GenerateResource.Cache
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.dll
+D:\TITIP\bangun\GitHub\dotNEThacks\photoAddIn\photoAddIn\obj\Debug\photoAddIn.pdb
