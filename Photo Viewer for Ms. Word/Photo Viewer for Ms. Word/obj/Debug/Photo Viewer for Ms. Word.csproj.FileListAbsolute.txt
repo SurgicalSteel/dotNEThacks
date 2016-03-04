@@ -1,0 +1,13 @@
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Photo_Viewer_for_Ms.Word.dll
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Photo_Viewer_for_Ms.Word.pdb
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Photo_Viewer_for_Ms.Word.dll.manifest
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Photo_Viewer_for_Ms.Word.vsto
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo Viewer for Ms. Word.csprojResolveAssemblyReference.cache
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo_Viewer_for_Ms.Word.Photo_Viewer_Add_In_Ribbon.resources
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo_Viewer_for_Ms.Word.Photo_Viewer_User_Control.resources
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo_Viewer_for_Ms.Word.Properties.Resources.resources
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo Viewer for Ms. Word.csproj.GenerateResource.Cache
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo_Viewer_for_Ms.Word.dll
+c:\users\dmc-9\documents\visual studio 2013\Projects\Photo Viewer for Ms. Word\Photo Viewer for Ms. Word\obj\Debug\Photo_Viewer_for_Ms.Word.pdb
