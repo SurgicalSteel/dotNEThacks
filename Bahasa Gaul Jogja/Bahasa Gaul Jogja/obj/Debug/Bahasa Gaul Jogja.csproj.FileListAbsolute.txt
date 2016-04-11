@@ -1,0 +1,9 @@
+c:\users\dmc-9\documents\visual studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\bin\Debug\Bahasa Gaul Jogja.exe.config
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\bin\Debug\Bahasa Gaul Jogja.exe
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\bin\Debug\Bahasa Gaul Jogja.pdb
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa Gaul Jogja.csprojResolveAssemblyReference.cache
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa_Gaul_Jogja.Form1.resources
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa_Gaul_Jogja.Properties.Resources.resources
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa Gaul Jogja.csproj.GenerateResource.Cache
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa Gaul Jogja.exe
+c:\Users\DMC-9\Documents\Visual Studio 2015\Projects\Bahasa Gaul Jogja\Bahasa Gaul Jogja\obj\Debug\Bahasa Gaul Jogja.pdb
