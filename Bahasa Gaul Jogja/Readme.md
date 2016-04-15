@@ -1,8 +1,7 @@
 This project is called Bahasa Gaul Jogja translator. The aim of building this software is to make non-Yogyakarta people understand the 'encryption' of slang Javanese which is now rarely practiced in Yogyakarta.
 
 <h1><b>For Example :</b></h1><br>
-the word "matamu" (means "your eyes") which is kind of swear word, will be translated into "dagadu"
-the sentence "cahe dewe" (means "our kids" or "our friends"), will be translated into "jape methe"
+the word "matamu" (means "your eyes") which is kind of swear word, will be translated into "dagadu".<br>And the sentence "cahe dewe" (means "our kids" or "our friends"), will be translated into "jape methe"
 
 <h1><b>How does the 'encryption method' work?</b></h1><br>
 in Javanese script, we know the list of consonant letters, they are :<br>
